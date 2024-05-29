@@ -1,0 +1,14 @@
+#a{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+}
+#b{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
